@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 
 mkdir -p build
-[ -f build/parts.xls ] || wget -O build/parts.xls https://jlcpcb.com/componentSearch/uploadComponentInfo
+# wget https://yaqwsx.github.io/jlcparts/data/cache.zip https://yaqwsx.github.io/jlcparts/data/cache.z0{1..8}
+# 7z x cache.zip
+# [ -f build/parts.xls ] || wget -O build/parts.xls https://jlcpcb.com/componentSearch/uploadComponentInfo
+[ -f build/parts.xls ] || wget -O build/parts.xls https://jlcpcb.com/video/jlcsmt_parts_library.xls
 [ -f build/parts.csv ] || ssconvert build/parts.xls build/parts.csv
 [ -f build/createdb.sql ] || cat >build/createdb.sql <<EOF
 .mode csv
@@ -27,5 +30,5 @@ EOF
 
 [ -f build/parts-basic.db ] || cat build/createdb-basic.sql | sqlite3 build/parts-basic.db
 [ -f build/parts.db ] || cat build/createdb.sql | sqlite3 build/parts.db
-python createlib.py
+python3 createlib.py
 mv build/*.kicad_sym ../libraries

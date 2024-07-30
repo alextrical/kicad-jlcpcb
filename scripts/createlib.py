@@ -4,8 +4,9 @@ import re
 import operator
 import sys
 import importlib
+import datetime
 
-sys.path.append("kicad_library_utils/common")
+sys.path.append("kicad-library-utils/common")
 
 import kicad_sym
 
@@ -13,8 +14,7 @@ effect_hidden      = kicad_sym.TextEffect(sizex=0, sizey=0, is_hidden=True)
 effect_halign_left = kicad_sym.TextEffect(sizex=1.27, sizey=1.27, h_justify="left")
 color_none         = kicad_sym.Color(r=0, g=0, b=0, a=0)
 
-# HACK!
-lib_version = 20211014
+lib_version = datetime.datetime.now().strftime("%Y%m%d")
 
 
 def append_parts(lib_object, description_value_re, name_expand_template, reference, footprint, where_clause, symbol_pins, text_posx, value_expand_template=None, symbol_rectangles=None, symbol_polylines=None):
@@ -122,54 +122,6 @@ append_parts(lib_object=lib_resistors_all,
              where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%1206"')
 
 # ===========================================================================================================================
-# 0402 resistors
-append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor-0402.kicad_sym"),
-             description_value_re="¡À([0-9%]+).*¡æ\s*(.*)¦¸.*",
-             name_expand_template='\\2',
-             reference='R',
-             footprint='R_0402_1005Metric',
-             symbol_pins=resistor_pins,
-             symbol_rectangles=resistor_rectangles,
-             text_posx=0.762,
-             where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%402"')
-
-# ===========================================================================================================================
-# 0603 resistors
-append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor-0603.kicad_sym"),
-             description_value_re="¡À([0-9%]+).*¡æ\s*(.*)¦¸.*",
-             name_expand_template='\\2',
-             reference='R',
-             footprint='R_0603_1608Metric',
-             symbol_pins=resistor_pins,
-             symbol_rectangles=resistor_rectangles,
-             text_posx=0.762,
-             where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%603"')
-
-# ===========================================================================================================================
-# 0805 resistors
-append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor-0805.kicad_sym"),
-             description_value_re="¡À([0-9%]+).*¡æ\s*(.*)¦¸.*",
-             name_expand_template='\\2',
-             reference='R',
-             footprint='R_0805_2012Metric',
-             symbol_pins=resistor_pins,
-             symbol_rectangles=resistor_rectangles,
-             text_posx=0.762,
-             where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%805"')
-
-# ===========================================================================================================================
-# 1206 resistors
-append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor-1206.kicad_sym"),
-             description_value_re="¡À([0-9%]+).*¡æ\s*(.*)¦¸.*",
-             name_expand_template='\\2',
-             reference='R',
-             footprint='R_1206_3216Metric',
-             symbol_pins=resistor_pins,
-             symbol_rectangles=resistor_rectangles,
-             text_posx=0.762,
-             where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "1206"')
-
-# ===========================================================================================================================
 # All Capacitors
 lib_capacitors_all = kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor.kicad_sym")
 append_parts(lib_object=lib_capacitors_all,
@@ -210,49 +162,115 @@ append_parts(lib_object=lib_capacitors_all,
              where_clause='"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "1206"')
 
 # ===========================================================================================================================
-# 0402 Capacitors
-append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-0402.kicad_sym"),
+# All Inductors
+lib_inductors_all = kicad_sym.KicadLibrary("build/jlcpcb-basic-inductor.kicad_sym")
+append_parts(lib_object=lib_inductors_all,
              description_value_re="(.+)\s(.+)\s(.+)¡À.*",
-             name_expand_template='\\2,\\1,\\3',
-             reference='C',
-             footprint='C_0402_1005Metric',
+             name_expand_template='0402,\\2,\\1,\\3',
+             reference='L',
+             footprint='L_0402_1005Metric',
              symbol_pins=capacitor_pins,
              symbol_polylines=capacitor_polylines,
              text_posx=1.71,
              where_clause='"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%402"')
-# ===========================================================================================================================
-# 0603 Capacitors
-append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-0603.kicad_sym"),
-             description_value_re="(.+)\s(.+)\s(.+)¡À.*",
-             name_expand_template='\\2,\\1,\\3',
-             reference='C',
-             footprint='C_0603_1608Metric',
-             symbol_pins=capacitor_pins,
-             symbol_polylines=capacitor_polylines,
-             text_posx=1.71,
-             where_clause= '"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%603"')
-# ===========================================================================================================================
-# 0805 Capacitors
-append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-0805.kicad_sym"),
-             description_value_re="(.+)\s(.+)\s(.+)¡À.*",
-             name_expand_template='\\2,\\1,\\3',
-             reference='C',
-             footprint='C_0805_2012Metric',
-             symbol_pins=capacitor_pins,
-             symbol_polylines=capacitor_polylines,
-             text_posx=1.71,
-             where_clause='"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%805"')
-# ===========================================================================================================================
-# 1206 Capacitors
-append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-1206.kicad_sym"),
-             description_value_re="(.+)\s(.+)\s(.+)¡À.*",
-             name_expand_template='\\2,\\1,\\3',
-             reference='C',
-             footprint='C_1206_3216Metric',
-             symbol_pins=capacitor_pins,
-             symbol_polylines=capacitor_polylines,
-             text_posx=1.71,
-             where_clause='"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "1206"')
+
+
+
+
+
+
+# # ===========================================================================================================================
+# # 0402 resistors
+# append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor-0402.kicad_sym"),
+#              description_value_re="¡À([0-9%]+).*¡æ\s*(.*)¦¸.*",
+#              name_expand_template='\\2',
+#              reference='R',
+#              footprint='R_0402_1005Metric',
+#              symbol_pins=resistor_pins,
+#              symbol_rectangles=resistor_rectangles,
+#              text_posx=0.762,
+#              where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%402"')
+
+# # ===========================================================================================================================
+# # 0603 resistors
+# append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor-0603.kicad_sym"),
+#              description_value_re="¡À([0-9%]+).*¡æ\s*(.*)¦¸.*",
+#              name_expand_template='\\2',
+#              reference='R',
+#              footprint='R_0603_1608Metric',
+#              symbol_pins=resistor_pins,
+#              symbol_rectangles=resistor_rectangles,
+#              text_posx=0.762,
+#              where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%603"')
+
+# # ===========================================================================================================================
+# # 0805 resistors
+# append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor-0805.kicad_sym"),
+#              description_value_re="¡À([0-9%]+).*¡æ\s*(.*)¦¸.*",
+#              name_expand_template='\\2',
+#              reference='R',
+#              footprint='R_0805_2012Metric',
+#              symbol_pins=resistor_pins,
+#              symbol_rectangles=resistor_rectangles,
+#              text_posx=0.762,
+#              where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "%805"')
+
+# # ===========================================================================================================================
+# # 1206 resistors
+# append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor-1206.kicad_sym"),
+#              description_value_re="¡À([0-9%]+).*¡æ\s*(.*)¦¸.*",
+#              name_expand_template='\\2',
+#              reference='R',
+#              footprint='R_1206_3216Metric',
+#              symbol_pins=resistor_pins,
+#              symbol_rectangles=resistor_rectangles,
+#              text_posx=0.762,
+#              where_clause='"First Category" = "Resistors" and "Second Category" = "Chip Resistor - Surface Mount" and "Package" like "1206"')
+
+# # ===========================================================================================================================
+# # 0402 Capacitors
+# append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-0402.kicad_sym"),
+#              description_value_re="(.+)\s(.+)\s(.+)¡À.*",
+#              name_expand_template='\\2,\\1,\\3',
+#              reference='C',
+#              footprint='C_0402_1005Metric',
+#              symbol_pins=capacitor_pins,
+#              symbol_polylines=capacitor_polylines,
+#              text_posx=1.71,
+#              where_clause='"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%402"')
+# # ===========================================================================================================================
+# # 0603 Capacitors
+# append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-0603.kicad_sym"),
+#              description_value_re="(.+)\s(.+)\s(.+)¡À.*",
+#              name_expand_template='\\2,\\1,\\3',
+#              reference='C',
+#              footprint='C_0603_1608Metric',
+#              symbol_pins=capacitor_pins,
+#              symbol_polylines=capacitor_polylines,
+#              text_posx=1.71,
+#              where_clause= '"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%603"')
+# # ===========================================================================================================================
+# # 0805 Capacitors
+# append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-0805.kicad_sym"),
+#              description_value_re="(.+)\s(.+)\s(.+)¡À.*",
+#              name_expand_template='\\2,\\1,\\3',
+#              reference='C',
+#              footprint='C_0805_2012Metric',
+#              symbol_pins=capacitor_pins,
+#              symbol_polylines=capacitor_polylines,
+#              text_posx=1.71,
+#              where_clause='"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%805"')
+# # ===========================================================================================================================
+# # 1206 Capacitors
+# append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-1206.kicad_sym"),
+#              description_value_re="(.+)\s(.+)\s(.+)¡À.*",
+#              name_expand_template='\\2,\\1,\\3',
+#              reference='C',
+#              footprint='C_1206_3216Metric',
+#              symbol_pins=capacitor_pins,
+#              symbol_polylines=capacitor_polylines,
+#              text_posx=1.71,
+#              where_clause='"First Category" = "Capacitors" and "Second Category" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "1206"')
 
 conn.close()
 

@@ -22,7 +22,7 @@ lib_version = 20200101
 def append_parts(lib_object, description_value_re, name_expand_template, reference, footprint, where_clause, symbol_pins, text_posx, value_expand_template=None, symbol_rectangles=None, symbol_polylines=None, symbol_arcs=None):
     lib_object.version = lib_version
     cursor = conn.cursor()
-    cursor.execute('select CAST(lcsc AS varchar) AS "LCSC Part", manufacturers.name as "Manufacturer", mfr as "MPN", Description, "Datasheet" from components LEFT OUTER JOIN manufacturers ON manufacturers.id = components.manufacturer_id LEFT OUTER JOIN categories on categories.id = components.category_id WHERE {}'.format(where_clause))
+    cursor.execute('select CAST(lcsc AS varchar) AS "LCSC Part", manufacturers.name as "Manufacturer", mfr as "MPN", REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(LOWER(Description),"ohm","Ω") ,"Ωs","Ω")," Ω","Ω") ," kΩ","kΩ")," mΩ","MΩ") AS Description, "Datasheet" from components LEFT OUTER JOIN manufacturers ON manufacturers.id = components.manufacturer_id LEFT OUTER JOIN categories on categories.id = components.category_id WHERE {}'.format(where_clause))
     for row in cursor.fetchall():
         (lcsc_part, mfg_name, mfg_part, description, datasheet) = row
         try:
@@ -98,56 +98,92 @@ inductor_arcs = [ kicad_sym.Arc(startx=0.0, starty=0.0, endx=0.0, endy=0.508, mi
 
 # # ===========================================================================================================================
 # All Resistors
-# lib_resistors_all = kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor.kicad_sym")
-# append_parts(lib_object=lib_resistors_all,
-#              description_value_re=r'¡À([0-9%]+).*¡æ\s*(.*)¦¸.*',
-#              name_expand_template='0402,\\2',
-#              reference='R',
-#              footprint='R_0402_1005Metric',
-#              symbol_pins=resistor_pins,
-#              symbol_rectangles=resistor_rectangles,
-#              text_posx=0.762,
-#              where_clause='"Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%402"')
-# append_parts(lib_object=lib_resistors_all,
-#              description_value_re=r'¡À([0-9%]+).*¡æ\s*(.*)¦¸.*',
-#              name_expand_template='0603,\\2',
-#              reference='R',
-#              footprint='R_0603_1608Metric',
-#              symbol_pins=resistor_pins,
-#              symbol_rectangles=resistor_rectangles,
-#              text_posx=0.762,
-#              where_clause='"Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%603"')
-# append_parts(lib_object=lib_resistors_all,
-#              description_value_re=r'¡À([0-9%]+).*¡æ\s*(.*)¦¸.*',
-#              name_expand_template='0805,\\2',
-#              reference='R',
-#              footprint='R_0805_2012Metric',
-#              symbol_pins=resistor_pins,
-#              symbol_rectangles=resistor_rectangles,
-#              text_posx=0.762,
-#              where_clause='"Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%805"')
-# append_parts(lib_object=lib_resistors_all,
-#              description_value_re=r'¡À([0-9%]+).*¡æ\s*(.*)¦¸.*',
-#              name_expand_template='1206,\\2',
-#              reference='R',
-#              footprint='R_1206_3216Metric',
-#              symbol_pins=resistor_pins,
-#              symbol_rectangles=resistor_rectangles,
-#              text_posx=0.762,
-#              where_clause='"Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%1206"')
+lib_resistors_all = kicad_sym.KicadLibrary("build/jlcpcb-basic-resistor.kicad_sym")
+append_parts(lib_object=lib_resistors_all,
+             description_value_re=r'(.*?±)(?P<tolerance>\d+\.?\d*%)(.*?)(?P<resistance>\d+\.?\d*[mkM]?[Ω])(.*)',
+             name_expand_template='\\4_0402_\\2',
+             reference='R',
+             footprint='R_0402_1005Metric',
+             symbol_pins=resistor_pins,
+             symbol_rectangles=resistor_rectangles,
+             text_posx=0.762,
+             where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%402" and description not in ("0402  Chip Resistor - Surface Mount ROHS","0402 Chip Resistor - Surface Mount RoHS","") and (description LIKE "%:%%Ω%" ESCAPE ":" OR description LIKE "%:%%ohm%" ESCAPE ":")')
+append_parts(lib_object=lib_resistors_all,
+             description_value_re=r'(.*?)(?P<resistance>\d+\.?\d*[mkM]?[Ω])(.*?±)(?P<tolerance>\d+\.?\d*%)(.*)',
+             name_expand_template='\\4_0402_\\2',
+             reference='R',
+             footprint='R_0402_1005Metric',
+             symbol_pins=resistor_pins,
+             symbol_rectangles=resistor_rectangles,
+             text_posx=0.762,
+             where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%402" and description not in ("0402  Chip Resistor - Surface Mount ROHS","0402 Chip Resistor - Surface Mount RoHS","") and (description LIKE "%Ω%:%%" ESCAPE ":" OR description LIKE "%ohm%:%%" ESCAPE ":")')
+append_parts(lib_object=lib_resistors_all,
+             description_value_re=r'(.*?±)(?P<tolerance>\d+\.?\d*%)(.*?)(?P<resistance>\d+\.?\d*[mkM]?[Ω])(.*)',
+             name_expand_template='\\4_0603_\\2',
+             reference='R',
+             footprint='R_0603_1005Metric',
+             symbol_pins=resistor_pins,
+             symbol_rectangles=resistor_rectangles,
+             text_posx=0.762,
+             where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%603" and description not in ("0603  Chip Resistor - Surface Mount ROHS","0603 Chip Resistor - Surface Mount RoHS","") and (description LIKE "%:%%Ω%" ESCAPE ":" OR description LIKE "%:%%ohm%" ESCAPE ":")')
+append_parts(lib_object=lib_resistors_all,
+             description_value_re=r'(.*?)(?P<resistance>\d+\.?\d*[mkM]?[Ω])(.*?±)(?P<tolerance>\d+\.?\d*%)(.*)',
+             name_expand_template='\\4_0603_\\2',
+             reference='R',
+             footprint='R_0603_1005Metric',
+             symbol_pins=resistor_pins,
+             symbol_rectangles=resistor_rectangles,
+             text_posx=0.762,
+             where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%603" and description not in ("0603  Chip Resistor - Surface Mount ROHS","0603 Chip Resistor - Surface Mount RoHS","") and (description LIKE "%Ω%:%%" ESCAPE ":" OR description LIKE "%ohm%:%%" ESCAPE ":")')
+append_parts(lib_object=lib_resistors_all,
+             description_value_re=r'(.*?±)(?P<tolerance>\d+\.?\d*%)(.*?)(?P<resistance>\d+\.?\d*[mkM]?[Ω])(.*)',
+             name_expand_template='\\4_0805_\\2',
+             reference='R',
+             footprint='R_0805_1005Metric',
+             symbol_pins=resistor_pins,
+             symbol_rectangles=resistor_rectangles,
+             text_posx=0.762,
+             where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%805" and description not in ("0805  Chip Resistor - Surface Mount ROHS","0805 Chip Resistor - Surface Mount RoHS","") and (description LIKE "%:%%Ω%" ESCAPE ":" OR description LIKE "%:%%ohm%" ESCAPE ":")')
+append_parts(lib_object=lib_resistors_all,
+             description_value_re=r'(.*?)(?P<resistance>\d+\.?\d*[mkM]?[Ω])(.*?±)(?P<tolerance>\d+\.?\d*%)(.*)',
+             name_expand_template='\\4_0805_\\2',
+             reference='R',
+             footprint='R_0805_1005Metric',
+             symbol_pins=resistor_pins,
+             symbol_rectangles=resistor_rectangles,
+             text_posx=0.762,
+             where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%805" and description not in ("0805  Chip Resistor - Surface Mount ROHS","0805 Chip Resistor - Surface Mount RoHS","") and (description LIKE "%Ω%:%%" ESCAPE ":" OR description LIKE "%ohm%:%%" ESCAPE ":")')
+append_parts(lib_object=lib_resistors_all,
+             description_value_re=r'(.*?±)(?P<tolerance>\d+\.?\d*%)(.*?)(?P<resistance>\d+\.?\d*[mkM]?[Ω])(.*)',
+             name_expand_template='\\4_01206_\\2',
+             reference='R',
+             footprint='R_01206_1005Metric',
+             symbol_pins=resistor_pins,
+             symbol_rectangles=resistor_rectangles,
+             text_posx=0.762,
+             where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%1206" and description not in ("01206  Chip Resistor - Surface Mount ROHS","01206 Chip Resistor - Surface Mount RoHS","") and (description LIKE "%:%%Ω%" ESCAPE ":" OR description LIKE "%:%%ohm%" ESCAPE ":")')
+append_parts(lib_object=lib_resistors_all,
+             description_value_re=r'(.*?)(?P<resistance>\d+\.?\d*[mkM]?[Ω])(.*?±)(?P<tolerance>\d+\.?\d*%)(.*)',
+             name_expand_template='\\4_01206_\\2',
+             reference='R',
+             footprint='R_01206_1005Metric',
+             symbol_pins=resistor_pins,
+             symbol_rectangles=resistor_rectangles,
+             text_posx=0.762,
+             where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%1206" and description not in ("01206  Chip Resistor - Surface Mount ROHS","01206 Chip Resistor - Surface Mount RoHS","") and (description LIKE "%Ω%:%%" ESCAPE ":" OR description LIKE "%ohm%:%%" ESCAPE ":")')
 
 # # ===========================================================================================================================
 # All Capacitors
-lib_capacitors_all_basic = kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor.kicad_sym")
-append_parts(lib_object=lib_capacitors_all_basic,
-             description_value_re=r'^(\S+) (\S+) (\S+) (\S+)',
-             name_expand_template='\\2_0402_\\1_\\4_\\3',
-             reference='C',
-             footprint='C_0402_1005Metric',
-             symbol_pins=capacitor_pins,
-             symbol_polylines=capacitor_polylines,
-             text_posx=1.71,
-             where_clause='basic = 1 and "Category" = "Capacitors" and "Subcategory" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%402"')
+# lib_capacitors_all_basic = kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor.kicad_sym")
+# append_parts(lib_object=lib_capacitors_all_basic,
+#              description_value_re=r'^(\S+) (\S+) (\S+) (\S+)',
+#              name_expand_template='\\2_0402_\\1_\\4_\\3',
+#              reference='C',
+#              footprint='C_0402_1005Metric',
+#              symbol_pins=capacitor_pins,
+#              symbol_polylines=capacitor_polylines,
+#              text_posx=1.71,
+#              where_clause='basic = 1 and "Category" = "Capacitors" and "Subcategory" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%402"')
 # append_parts(lib_object=lib_capacitors_all_basic,
 #              description_value_re=r'^(\S+) (\S+) (\S+) (\S+)',
 #              name_expand_template='\\2_0603_\\1_\\4_\\3',
@@ -242,7 +278,7 @@ append_parts(lib_object=lib_capacitors_all_basic,
 #              symbol_pins=resistor_pins,
 #              symbol_rectangles=resistor_rectangles,
 #              text_posx=0.762,
-#              where_clause='"Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%402"')
+#              where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%402"')
 
 # # ===========================================================================================================================
 # # 0603 resistors
@@ -254,7 +290,7 @@ append_parts(lib_object=lib_capacitors_all_basic,
 #              symbol_pins=resistor_pins,
 #              symbol_rectangles=resistor_rectangles,
 #              text_posx=0.762,
-#              where_clause='"Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%603"')
+#              where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%603"')
 
 # # ===========================================================================================================================
 # # 0805 resistors
@@ -266,7 +302,7 @@ append_parts(lib_object=lib_capacitors_all_basic,
 #              symbol_pins=resistor_pins,
 #              symbol_rectangles=resistor_rectangles,
 #              text_posx=0.762,
-#              where_clause='"Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%805"')
+#              where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "%805"')
 
 # # ===========================================================================================================================
 # # 1206 resistors
@@ -278,7 +314,7 @@ append_parts(lib_object=lib_capacitors_all_basic,
 #              symbol_pins=resistor_pins,
 #              symbol_rectangles=resistor_rectangles,
 #              text_posx=0.762,
-#              where_clause='"Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "1206"')
+#              where_clause='basic = 1 and "Category" = "Resistors" and "Subcategory" = "Chip Resistor - Surface Mount" and "Package" like "1206"')
 
 # # ===========================================================================================================================
 # # 0402 Capacitors
@@ -290,7 +326,7 @@ append_parts(lib_object=lib_capacitors_all_basic,
 #              symbol_pins=capacitor_pins,
 #              symbol_polylines=capacitor_polylines,
 #              text_posx=1.71,
-#              where_clause='"Category" = "Capacitors" and "Subcategory" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%402"')
+#              where_clause='basic = 1 and "Category" = "Capacitors" and "Subcategory" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%402"')
 # # ===========================================================================================================================
 # # 0603 Capacitors
 # append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-0603.kicad_sym"),
@@ -312,7 +348,7 @@ append_parts(lib_object=lib_capacitors_all_basic,
 #              symbol_pins=capacitor_pins,
 #              symbol_polylines=capacitor_polylines,
 #              text_posx=1.71,
-#              where_clause='"Category" = "Capacitors" and "Subcategory" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%805"')
+#              where_clause='basic = 1 and "Category" = "Capacitors" and "Subcategory" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "%805"')
 # # ===========================================================================================================================
 # # 1206 Capacitors
 # append_parts(lib_object=kicad_sym.KicadLibrary("build/jlcpcb-basic-capacitor-1206.kicad_sym"),
@@ -323,7 +359,7 @@ append_parts(lib_object=lib_capacitors_all_basic,
 #              symbol_pins=capacitor_pins,
 #              symbol_polylines=capacitor_polylines,
 #              text_posx=1.71,
-#              where_clause='"Category" = "Capacitors" and "Subcategory" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "1206"')
+#              where_clause='basic = 1 and "Category" = "Capacitors" and "Subcategory" = "Multilayer Ceramic Capacitors MLCC - SMD/SMT" and "Package" like "1206"')
 
 conn.close()
 

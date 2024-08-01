@@ -42,7 +42,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 2k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 2kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -143,7 +143,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 1k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -244,7 +244,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±800ppm ±1% 0 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±800ppm ±1% 0Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -345,7 +345,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±1% ±200ppm 100 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±1% ±200ppm 100Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -446,7 +446,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±1% ±200ppm 10 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±1% ±200ppm 10Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -547,7 +547,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 120 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 120Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -648,7 +648,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 200 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 200Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -749,7 +749,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 220 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 220Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -850,7 +850,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±1% ±100ppm 22 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±1% ±100ppm 22Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -951,7 +951,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 330 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 330Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1052,7 +1052,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 33 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 33Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1153,7 +1153,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 470 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 470Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1254,7 +1254,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 499 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1355,7 +1355,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 510 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 510Ω 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1456,7 +1456,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 100k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 100kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1557,7 +1557,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 10k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 10kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1658,7 +1658,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 12k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 12kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1759,7 +1759,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 15k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 15kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1860,7 +1860,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 200k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 200kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -1961,7 +1961,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 20k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 20kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2062,7 +2062,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 22k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 22kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2163,7 +2163,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 33k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 33kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2264,7 +2264,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 47k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 47kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2365,7 +2365,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 51k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 51kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2466,7 +2466,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 15k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 15kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2567,7 +2567,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 22k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 22kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2668,7 +2668,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 33k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 33kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2769,7 +2769,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 47k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 47kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2870,7 +2870,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 51k 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 51kΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -2930,7 +2930,7 @@
           (effects
             (font
               (size 0 0)) hide)))))
-  (symbol "1mΩ_0402_1%"
+  (symbol "1MΩ_0402_1%"
     (in_bom yes)
     (on_board yes)
     (property "Reference" "R"
@@ -2940,7 +2940,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1mΩ_0402_1%"
+    (property "Value" "1MΩ_0402_1%"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
@@ -2971,7 +2971,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "625mw thick film resistors 50v ±100ppm ±1% 1m 0402  chip resistor - surface mount rohs"
+    (property "Description" "625mW Thick Film Resistors 50V ±100ppm ±1% 1MΩ 0402  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3001,7 +3001,7 @@
       (effects
         (font
           (size 0 0)) hide))
-    (symbol "1mΩ_0402_1%_0_0"
+    (symbol "1MΩ_0402_1%_0_0"
       (rectangle
         (start -0.762 1.778)
         (end 0.762 -1.778)
@@ -3048,7 +3048,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3072,7 +3072,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 18k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 18kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3149,7 +3149,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3173,7 +3173,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 20k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 20kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3250,7 +3250,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3274,7 +3274,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 22k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 22kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3351,7 +3351,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3375,7 +3375,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 3k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 3kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3452,7 +3452,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3476,7 +3476,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 33k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 33kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3553,7 +3553,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3577,7 +3577,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 62k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 62kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3654,7 +3654,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3678,7 +3678,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% ±200ppm 75 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% ±200ppm 75Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3738,7 +3738,7 @@
           (effects
             (font
               (size 0 0)) hide)))))
-  (symbol "10mΩ_0603_1%"
+  (symbol "10MΩ_0603_1%"
     (in_bom yes)
     (on_board yes)
     (property "Reference" "R"
@@ -3748,14 +3748,14 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Value" "10mΩ_0603_1%"
+    (property "Value" "10MΩ_0603_1%"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3779,7 +3779,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 10m 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 10MΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3809,7 +3809,7 @@
       (effects
         (font
           (size 0 0)) hide))
-    (symbol "10mΩ_0603_1%_0_0"
+    (symbol "10MΩ_0603_1%_0_0"
       (rectangle
         (start -0.762 1.778)
         (end 0.762 -1.778)
@@ -3856,7 +3856,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3880,7 +3880,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 200 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 200Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -3957,7 +3957,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -3981,7 +3981,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 27k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 27kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4058,7 +4058,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4082,7 +4082,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% 0 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% 0Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4159,7 +4159,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4183,7 +4183,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 1k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 1kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4260,7 +4260,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4284,7 +4284,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 12k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 12kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4361,7 +4361,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4385,7 +4385,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% ±200ppm 100 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% ±200ppm 100Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4462,7 +4462,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4486,7 +4486,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 120 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 120Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4563,7 +4563,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4587,7 +4587,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 12k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 12kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4664,7 +4664,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4688,7 +4688,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 13k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 13kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4765,7 +4765,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4789,7 +4789,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 150k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 150kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4866,7 +4866,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4890,7 +4890,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 150 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 150Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -4967,7 +4967,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -4991,7 +4991,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 15k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 15kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5068,7 +5068,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5092,7 +5092,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 15k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 15kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5169,7 +5169,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5193,7 +5193,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% ±400ppm 10 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm 10Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5253,7 +5253,7 @@
           (effects
             (font
               (size 0 0)) hide)))))
-  (symbol "1mΩ_0603_1%"
+  (symbol "1MΩ_0603_1%"
     (in_bom yes)
     (on_board yes)
     (property "Reference" "R"
@@ -5263,14 +5263,14 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1mΩ_0603_1%"
+    (property "Value" "1MΩ_0603_1%"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5294,7 +5294,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 1m 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 1MΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5324,7 +5324,7 @@
       (effects
         (font
           (size 0 0)) hide))
-    (symbol "1mΩ_0603_1%_0_0"
+    (symbol "1MΩ_0603_1%_0_0"
       (rectangle
         (start -0.762 1.778)
         (end 0.762 -1.778)
@@ -5371,7 +5371,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5395,7 +5395,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% ±400ppm 1 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm 1Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5472,7 +5472,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5496,7 +5496,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% ±400ppm 22 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm 22Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5573,7 +5573,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5597,7 +5597,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 24k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 24kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5674,7 +5674,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5698,7 +5698,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 20 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 20Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5775,7 +5775,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5799,7 +5799,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 220k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 220kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5876,7 +5876,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -5900,7 +5900,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 220 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 220Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -5977,7 +5977,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6001,7 +6001,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 270 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 270Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6078,7 +6078,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6102,7 +6102,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 27k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 27kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6179,7 +6179,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6203,7 +6203,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 2k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 2kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6263,7 +6263,7 @@
           (effects
             (font
               (size 0 0)) hide)))))
-  (symbol "2mΩ_0603_1%"
+  (symbol "2MΩ_0603_1%"
     (in_bom yes)
     (on_board yes)
     (property "Reference" "R"
@@ -6273,14 +6273,14 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Value" "2mΩ_0603_1%"
+    (property "Value" "2MΩ_0603_1%"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6304,7 +6304,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 2m 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 2MΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6334,7 +6334,7 @@
       (effects
         (font
           (size 0 0)) hide))
-    (symbol "2mΩ_0603_1%_0_0"
+    (symbol "2MΩ_0603_1%_0_0"
       (rectangle
         (start -0.762 1.778)
         (end 0.762 -1.778)
@@ -6381,7 +6381,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6405,7 +6405,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% ±200ppm 2 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% ±200ppm 2Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6482,7 +6482,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6506,7 +6506,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 33k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 33kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6583,7 +6583,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6607,7 +6607,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 36k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 36kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6684,7 +6684,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6708,7 +6708,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 30k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 30kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6785,7 +6785,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6809,7 +6809,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 39k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 39kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6886,7 +6886,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -6910,7 +6910,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 300k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 300kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -6987,7 +6987,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7011,7 +7011,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 300 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 300Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7088,7 +7088,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7112,7 +7112,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 499k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 499kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7189,7 +7189,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7213,7 +7213,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 330k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 330kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7290,7 +7290,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7314,7 +7314,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 330 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 330Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7391,7 +7391,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7415,7 +7415,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 33 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 33Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7492,7 +7492,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7516,7 +7516,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 390 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 390Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7593,7 +7593,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7617,7 +7617,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 39k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 39kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7694,7 +7694,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7718,7 +7718,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 47k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7795,7 +7795,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7819,7 +7819,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% ±400ppm 47 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% ±400ppm 47Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7896,7 +7896,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -7920,7 +7920,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 470k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 470kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -7997,7 +7997,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8021,7 +8021,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 470 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 470Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8098,7 +8098,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8122,7 +8122,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 47 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 47Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8199,7 +8199,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8223,7 +8223,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 499k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 499kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8300,7 +8300,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8324,7 +8324,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 499 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8401,7 +8401,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8425,7 +8425,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 51k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 51kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8502,7 +8502,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8526,7 +8526,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 56k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 56kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8603,7 +8603,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8627,7 +8627,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 510k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 510kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8704,7 +8704,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8728,7 +8728,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 510 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 510Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8805,7 +8805,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8829,7 +8829,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 51k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 51kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -8906,7 +8906,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -8930,7 +8930,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 51 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 51Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9007,7 +9007,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9031,7 +9031,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 560 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 560Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9108,7 +9108,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9132,7 +9132,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 56k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 56kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9209,7 +9209,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9233,7 +9233,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 68k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 68kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9310,7 +9310,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9334,7 +9334,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 680 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 680Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9411,7 +9411,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9435,7 +9435,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 68k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 68kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9512,7 +9512,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9536,7 +9536,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 75k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 75kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9613,7 +9613,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9637,7 +9637,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 75k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 75kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9714,7 +9714,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9738,7 +9738,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 820 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 820Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9815,7 +9815,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9839,7 +9839,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 82k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 82kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -9916,7 +9916,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -9940,7 +9940,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 91k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 91kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10017,7 +10017,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10041,7 +10041,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 22 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 22Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10118,7 +10118,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10142,7 +10142,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 24k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 24kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10219,7 +10219,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10243,7 +10243,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±1% ±200ppm 51 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±1% ±200ppm 51Ω 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10320,7 +10320,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10344,7 +10344,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 100k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 100kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10421,7 +10421,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10445,7 +10445,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 10k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 10kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10522,7 +10522,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10546,7 +10546,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 120k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 120kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10623,7 +10623,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10647,7 +10647,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 18k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 18kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10724,7 +10724,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10748,7 +10748,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 200k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 200kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10825,7 +10825,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10849,7 +10849,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 47k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -10926,7 +10926,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -10950,7 +10950,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 82k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 82kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11027,7 +11027,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0603_1005Metric"
+    (property "Footprint" "R_0603_1608Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11051,7 +11051,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "100mw thick film resistors 75v ±100ppm ±1% 22k 0603  chip resistor - surface mount rohs"
+    (property "Description" "100mW Thick Film Resistors 75V ±100ppm ±1% 22kΩ 0603  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11128,7 +11128,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11152,7 +11152,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 15k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 15kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11229,7 +11229,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11253,7 +11253,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 20k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 20kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11330,7 +11330,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11354,7 +11354,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 56k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 56kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11431,7 +11431,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11455,7 +11455,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 12k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 12kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11532,7 +11532,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11556,7 +11556,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 100 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 100Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11633,7 +11633,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11657,7 +11657,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 10k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 10kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11734,7 +11734,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11758,7 +11758,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±1% ±200ppm 10 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm 10Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11835,7 +11835,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11859,7 +11859,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 120 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 120Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -11936,7 +11936,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -11960,7 +11960,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 12k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 12kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12037,7 +12037,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12061,7 +12061,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 150k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 150kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12138,7 +12138,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12162,7 +12162,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 150 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 150Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12239,7 +12239,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12263,7 +12263,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 15k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 15kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12340,7 +12340,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12364,7 +12364,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±800ppm ±1% 0 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±800ppm ±1% 0Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12441,7 +12441,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12465,7 +12465,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 1k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 1kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12525,7 +12525,7 @@
           (effects
             (font
               (size 0 0)) hide)))))
-  (symbol "1mΩ_0805_1%"
+  (symbol "1MΩ_0805_1%"
     (in_bom yes)
     (on_board yes)
     (property "Reference" "R"
@@ -12535,14 +12535,14 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1mΩ_0805_1%"
+    (property "Value" "1MΩ_0805_1%"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12566,7 +12566,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 1m 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 1MΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12596,7 +12596,7 @@
       (effects
         (font
           (size 0 0)) hide))
-    (symbol "1mΩ_0805_1%_0_0"
+    (symbol "1MΩ_0805_1%_0_0"
       (rectangle
         (start -0.762 1.778)
         (end 0.762 -1.778)
@@ -12643,7 +12643,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12667,7 +12667,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 22k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 22kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12744,7 +12744,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12768,7 +12768,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±1% ±400ppm 22 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±1% ±400ppm 22Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12845,7 +12845,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12869,7 +12869,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 24k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 24kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -12946,7 +12946,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -12970,7 +12970,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 27k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 27kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13047,7 +13047,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13071,7 +13071,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 200k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 200kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13148,7 +13148,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13172,7 +13172,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 200 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 200Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13249,7 +13249,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13273,7 +13273,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±1% ±200ppm 20 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm 20Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13350,7 +13350,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13374,7 +13374,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 220k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 220kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13451,7 +13451,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13475,7 +13475,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 220 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 220Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13552,7 +13552,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13576,7 +13576,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 22k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 22kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13653,7 +13653,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13677,7 +13677,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 22 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 22Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13754,7 +13754,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13778,7 +13778,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 24k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 24kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13855,7 +13855,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13879,7 +13879,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 27k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 27kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -13956,7 +13956,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -13980,7 +13980,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 2k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 2kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14057,7 +14057,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14081,7 +14081,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 39k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 39kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14158,7 +14158,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14182,7 +14182,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 300 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 300Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14259,7 +14259,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14283,7 +14283,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 30k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 30kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14360,7 +14360,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14384,7 +14384,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 330 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 330Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14461,7 +14461,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14485,7 +14485,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 33k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 33kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14562,7 +14562,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14586,7 +14586,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±1% ±200ppm 33 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm 33Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14663,7 +14663,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14687,7 +14687,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 390 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 390Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14764,7 +14764,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14788,7 +14788,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 3k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 3kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14865,7 +14865,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14889,7 +14889,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 47k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 47kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -14966,7 +14966,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -14990,7 +14990,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±1% ±200ppm 47 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm 47Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15067,7 +15067,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15091,7 +15091,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 470k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 470kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15168,7 +15168,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15192,7 +15192,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 470 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 470Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15269,7 +15269,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15293,7 +15293,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 47k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 47kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15370,7 +15370,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15394,7 +15394,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±1% ±200ppm 47 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±1% ±200ppm 47Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15471,7 +15471,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15495,7 +15495,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 499 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 499Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15572,7 +15572,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15596,7 +15596,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±1% ±400ppm 51 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±1% ±400ppm 51Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15673,7 +15673,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15697,7 +15697,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 510 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 510Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15774,7 +15774,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15798,7 +15798,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 51k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 51kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15875,7 +15875,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -15899,7 +15899,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 51 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 51Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -15976,7 +15976,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16000,7 +16000,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 68k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 68kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16077,7 +16077,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16101,7 +16101,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 680 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 680Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16178,7 +16178,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16202,7 +16202,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 68k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 68kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16279,7 +16279,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16303,7 +16303,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 82k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 82kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16380,7 +16380,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16404,7 +16404,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±1% ±400ppm 1 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±1% ±400ppm 1Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16481,7 +16481,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16505,7 +16505,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 33k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 33kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16582,7 +16582,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16606,7 +16606,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 51k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 51kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16683,7 +16683,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16707,7 +16707,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 560 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 560Ω 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16784,7 +16784,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_0805_1005Metric"
+    (property "Footprint" "R_0805_2012Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16808,7 +16808,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "125mw thick film resistors 150v ±100ppm ±1% 100k 0805  chip resistor - surface mount rohs"
+    (property "Description" "125mW Thick Film Resistors 150V ±100ppm ±1% 100kΩ 0805  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16885,7 +16885,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -16909,7 +16909,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±1% 1k 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±1% 1kΩ 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -16986,7 +16986,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17010,7 +17010,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 300 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 300Ω 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17087,7 +17087,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17111,7 +17111,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±800ppm ±1% 0 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±800ppm ±1% 0Ω 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17188,7 +17188,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17212,7 +17212,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 100k 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 100kΩ 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17289,7 +17289,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17313,7 +17313,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 100 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 100Ω 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17390,7 +17390,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17414,7 +17414,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 10k 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 10kΩ 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17491,7 +17491,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17515,7 +17515,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±1% ±400ppm 10 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±1% ±400ppm 10Ω 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17592,7 +17592,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17616,7 +17616,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 120 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 120Ω 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17676,7 +17676,7 @@
           (effects
             (font
               (size 0 0)) hide)))))
-  (symbol "1mΩ_01206_1%"
+  (symbol "1MΩ_01206_1%"
     (in_bom yes)
     (on_board yes)
     (property "Reference" "R"
@@ -17686,14 +17686,14 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Value" "1mΩ_01206_1%"
+    (property "Value" "1MΩ_01206_1%"
       (id 1)
       (at 0.762 -1.016 0.0)
       (effects
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17717,7 +17717,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 1m 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 1MΩ 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17747,7 +17747,7 @@
       (effects
         (font
           (size 0 0)) hide))
-    (symbol "1mΩ_01206_1%_0_0"
+    (symbol "1MΩ_01206_1%_0_0"
       (rectangle
         (start -0.762 1.778)
         (end 0.762 -1.778)
@@ -17794,7 +17794,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17818,7 +17818,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±800ppm ±1% 1 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±800ppm ±1% 1Ω 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17895,7 +17895,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -17919,7 +17919,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 47k 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 47kΩ 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -17996,7 +17996,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -18020,7 +18020,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 2k 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 2kΩ 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -18097,7 +18097,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -18121,7 +18121,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 20 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 20Ω 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -18198,7 +18198,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -18222,7 +18222,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±100ppm ±1% 22 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±100ppm ±1% 22Ω 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects
@@ -18299,7 +18299,7 @@
         (font
           (size 1.27 1.27))
         (justify left)))
-    (property "Footprint" "R_01206_1005Metric"
+    (property "Footprint" "R_1206_3216Metric"
       (id 2)
       (at 0.0 0.0 0.0)
       (effects
@@ -18323,7 +18323,7 @@
       (effects
         (font
           (size 1.27 1.27)) hide))
-    (property "Description" "250mw thick film resistors 200v ±800ppm ±1% 100m 1206  chip resistor - surface mount rohs"
+    (property "Description" "250mW Thick Film Resistors 200V ±800ppm ±1% 100mΩ 1206  Chip Resistor - Surface Mount ROHS"
       (id 6)
       (at 0.0 0.0 0.0)
       (effects

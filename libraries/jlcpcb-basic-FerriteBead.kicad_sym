@@ -1,0 +1,309 @@
+(kicad_symbol_lib
+  (version 20200101)
+  (generator kicad-library-utils)
+  (symbol "600Ω@100MHz_0603"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "L"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "600Ω@100MHz_0603"
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "L_0603_1608Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310301640_Sunlord-GZ1608D601TF_C1002.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Description" "\"450mΩ ±25% 600Ω@100MHz 0603  Ferrite Beads ROHS\""
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "LCSC" "1002"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (property "MFG" "Sunlord"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (property "MFGPN" "GZ1608D601TF"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (symbol "600Ω@100MHz_0603_0_0"
+      (arc
+        (start 0.0 0.0)
+        (mid 0.254 0.254)
+        (end 0.0 0.508)
+        (stroke
+          (width 0.2032))
+        (fill
+          (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~"
+          (effects
+            (font
+              (size 0 0)) hide))
+        (number "1"
+          (effects
+            (font
+              (size 0 0)) hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~"
+          (effects
+            (font
+              (size 0 0)) hide))
+        (number "2"
+          (effects
+            (font
+              (size 0 0)) hide)))))
+  (symbol "100Ω@100MHz_0805"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "L"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "100Ω@100MHz_0805"
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "L_0805_2012Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310301640_Sunlord-GZ2012D101TF_C1015.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Description" "\"±25% 100Ω@100MHz 0805  Ferrite Beads ROHS\""
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "LCSC" "1015"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (property "MFG" "Sunlord"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (property "MFGPN" "GZ2012D101TF"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (symbol "100Ω@100MHz_0805_0_0"
+      (arc
+        (start 0.0 0.0)
+        (mid 0.254 0.254)
+        (end 0.0 0.508)
+        (stroke
+          (width 0.2032))
+        (fill
+          (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~"
+          (effects
+            (font
+              (size 0 0)) hide))
+        (number "1"
+          (effects
+            (font
+              (size 0 0)) hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~"
+          (effects
+            (font
+              (size 0 0)) hide))
+        (number "2"
+          (effects
+            (font
+              (size 0 0)) hide)))))
+  (symbol "600Ω@100MHz_0805"
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "L"
+      (id 0)
+      (at 1.71 0.508 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)))
+    (property "Value" "600Ω@100MHz_0805"
+      (id 1)
+      (at 1.71 -1.016 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)))
+    (property "Footprint" "L_0805_2012Metric"
+      (id 2)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310301640_Sunlord-GZ2012D601TF_C1017.pdf"
+      (id 3)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_locked" ""
+      (id 4)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_keywords" ""
+      (id 5)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "Description" "\"300mΩ ±25% 600Ω@100MHz 0805  Ferrite Beads ROHS\""
+      (id 6)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27)) hide))
+    (property "ki_fp_filters" ""
+      (id 7)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 1.27 1.27))))
+    (property "LCSC" "1017"
+      (id 8)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (property "MFG" "Sunlord"
+      (id 9)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (property "MFGPN" "GZ2012D601TF"
+      (id 10)
+      (at 0.0 0.0 0.0)
+      (effects
+        (font
+          (size 0 0)) hide))
+    (symbol "600Ω@100MHz_0805_0_0"
+      (arc
+        (start 0.0 0.0)
+        (mid 0.254 0.254)
+        (end 0.0 0.508)
+        (stroke
+          (width 0.2032))
+        (fill
+          (type none)))
+      (pin passive line
+        (at 0 2.54 270)
+        (length 2.032)
+        (name "~"
+          (effects
+            (font
+              (size 0 0)) hide))
+        (number "1"
+          (effects
+            (font
+              (size 0 0)) hide)))
+      (pin passive line
+        (at 0 -2.54 90)
+        (length 2.032)
+        (name "~"
+          (effects
+            (font
+              (size 0 0)) hide))
+        (number "2"
+          (effects
+            (font
+              (size 0 0)) hide))))))

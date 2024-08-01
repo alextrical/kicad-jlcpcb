@@ -33,7 +33,8 @@ mkdir -p build
 # [ -f build/parts.db ] || cat build/createdb.sql | sqlite3 build/parts.db
 
 python3 createlib.py
-# gsed -i'' -e 's/\\"//g' build/jlcpcb-basic-capacitor.kicad_sym
+gsed -i'' -e 's/\\"//g' build/jlcpcb-basic-capacitor.kicad_sym
+gsed -i'' -e 's/_0_0//g' build/jlcpcb-basic-capacitor.kicad_sym
 gsed -i'' -e 's/\\"//g' build/jlcpcb-basic-resistor.kicad_sym
 gsed -i'' -e 's/_ _/_/g' build/jlcpcb-basic-resistor.kicad_sym
 mv build/*.kicad_sym ../libraries

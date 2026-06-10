@@ -31,7 +31,7 @@ jobs:
       - name: Checkout generated libraries repo
         uses: actions/checkout@v6
         with:
-          repository: YOUR-USER-OR-ORG/YOUR-LIBRARIES-REPO
+          repository: alextrical/kicad-jlcpcb-libraries
           token: ${{ secrets.LIBS_REPO_PAT }}
           path: libraries
           persist-credentials: false

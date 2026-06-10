@@ -15,6 +15,7 @@ _autosave-*
 fp-info-cache
 
 scripts/build/
+scripts/out/
 
 # Netlist files (exported from Eeschema)
 *.net

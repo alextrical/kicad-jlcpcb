@@ -1,0 +1,67 @@
+name: Generate KiCad libraries
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 1"   # every Monday at 03:00 UTC
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/createlib.py"
+      - "scripts/generate.sh"
+      - ".gitmodules"
+      - ".github/workflows/generate-libraries.yml"
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v6
+        with:
+          path: source
+          persist-credentials: false
+          submodules: recursive
+
+      - name: Checkout generated libraries repo
+        uses: actions/checkout@v6
+        with:
+          repository: YOUR-USER-OR-ORG/YOUR-LIBRARIES-REPO
+          token: ${{ secrets.LIBS_REPO_PAT }}
+          path: libraries
+          persist-credentials: false
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y p7zip-full python3 python3-pip sed
+
+      - name: Run generator
+        working-directory: source
+        run: |
+          chmod +x ./generate.sh
+          ./generate.sh
+
+      - name: Replace generated files in destination repo
+        run: |
+          mkdir -p libraries/symbols
+          find libraries/symbols -type f -name '*.kicad_sym' -delete
+          cp source/out/*.kicad_sym libraries/symbols/
+
+      - name: Commit and push if changed
+        working-directory: libraries
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update generated KiCad libraries"
+          git push https://x-access-token:${{ secrets.LIBS_REPO_PAT }}@github.com/YOUR-USER-OR-ORG/YOUR-LIBRARIES-REPO.git HEAD:main

@@ -44,8 +44,8 @@ jobs:
       - name: Run generator
         working-directory: source
         run: |
-          chmod +x scripts/generate.sh
-          scripts/generate.sh
+          chmod +x scripts/jlc-generate.sh
+          scripts/jlc-generate.sh
 
       - name: Replace generated files in destination repo
         run: |

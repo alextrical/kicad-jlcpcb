@@ -11,7 +11,7 @@ done
 
 7z x build/cache.zip -obuild/ -aoa
 
-python3 scripts/createlib.py
+python3 createlib.py
 
 sed -i 's/\\"//g' build/*.kicad_sym
 cp build/*.kicad_sym out/
